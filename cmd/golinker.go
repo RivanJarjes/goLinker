@@ -1,5 +1,0 @@
-package golinker
-
-func main() {
-	
-}
